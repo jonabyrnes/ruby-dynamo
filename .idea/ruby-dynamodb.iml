@@ -64,10 +64,14 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="RVM: ruby-2.2.0 [ruby-dynamodb]" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="actionmailer (v4.2.0, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actionpack (v4.2.0, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actionview (v4.2.0, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activejob (v4.2.0, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activemodel (v4.2.0, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activerecord (v4.2.0, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v4.2.0, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="arel (v6.0.0, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="aws-sdk-core (v2.0.22, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="binding_of_caller (v0.7.2, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.2, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
@@ -81,6 +85,7 @@
     <orderEntry type="library" scope="PROVIDED" name="debugger-linecache (v1.2.0, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="execjs (v2.3.0, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="globalid (v0.3.2, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="hike (v1.2.3, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v0.7.0, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jbuilder (v2.2.6, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
@@ -89,6 +94,8 @@
     <orderEntry type="library" scope="PROVIDED" name="json (v1.8.2, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="loofah (v2.0.1, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="macaddr (v1.7.1, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mail (v2.6.3, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mime-types (v2.4.3, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mini_portile (v0.6.2, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="minitest (v5.5.1, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.10.1, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
@@ -97,9 +104,12 @@
     <orderEntry type="library" scope="PROVIDED" name="psych (v2.0.8, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v1.6.0, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.3, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails (v4.2.0, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails-deprecated_sanitizer (v1.0.3, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails-dom-testing (v1.0.5, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails-html-sanitizer (v1.0.1, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="railties (v4.2.0, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v10.4.2, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v4.2.0, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass (v3.4.11, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass-rails (v5.0.1, RVM: ruby-2.2.0 [ruby-dynamodb]) [gem]" level="application" />
